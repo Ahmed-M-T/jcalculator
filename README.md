@@ -2,6 +2,9 @@
 
 :white_check_mark: jQuery plugin for calculator inputs
 
+![Image of jCalculator](http://i.imgur.com/VODhXOc.png)
+
+
 ###```bower install jCalculator```
 
 ### To install follow the steps:
