@@ -14,6 +14,9 @@
   - Call ```$(selector).jCalculator({ /* your options here */ })```
 
 
+### Options and methods
+
+
 | Options  |  Type    |                                      Description                                      |
 |----------|----------|---------------------------------------------------------------------------------------|
 | theme    | string   | Available ```material```, ```light```, ```dark```. Default ```material```.                                    |
