@@ -22,3 +22,8 @@
 | theme    | string   | Available ```material```, ```light```, ```dark```. Default ```material```.                                    |
 | onInput  | function | Callback function triggered when a button is clicked, send as parameter the ```$element```. |
 | onResult | function | Callback function triggered when a calculation was made, send as parameter the ```result```.  |
+
+### Changelog
+
+  - Added callback methods
+  - Added new themes
