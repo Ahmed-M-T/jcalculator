@@ -5,7 +5,9 @@
 ![Image of jCalculator](http://i.imgur.com/VODhXOc.png)
 
 
-###```bower install jCalculator```
+```
+bower install jCalculator
+```
 
 ### To install follow the steps:
   
